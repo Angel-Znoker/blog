@@ -1,0 +1,54 @@
+body {
+	background-image: url(../img/space.png) !important;
+}
+
+#navbar li a:link, #navbar li a:visited {
+	color: #000 !important;
+}
+
+#navbar li a:hover, #navbar li a:active {
+	color: #fff !important;
+}
+
+.dropdown-menu {
+	background-color: #a6a6a6;
+}
+
+.dropdown-menu li a:link, .dropdown-menu li a:visited {
+	color: #000 !important;
+}
+
+.dropdown-menu li a:hover, .dropdown-menu li a:active {
+	background-color: #a6a6a6 !important;
+	color: #fff !important;
+}
+
+.jumbotron {
+	background-color: #949494;
+	color: #000;
+}
+
+.navbar {
+	background-color: #A6A6A6;
+}
+
+.navbar-brand:link, .navbar-brand:visited{
+	color: #000 !important;
+}
+
+.navbar-brand:hover, .navbar-brand:active {
+	color: #fff !important;
+}
+
+.open > a { /*el > significa hijo directo*/
+	background-color: #a6a6a6 !important;
+}
+
+.panel-heading {
+	background-color: #949494 !important;
+	color: #000 !important;
+}
+
+.panel-body {
+	color: #000 !important;
+}
